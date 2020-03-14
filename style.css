@@ -4,11 +4,12 @@ nav{
     
 
 }
+.ws{
+    min-height: 100vh;
+}
+
 @media (max-width: 575px)  {
     #welcome-section {
-        height: 100%;
+        height: vh;
     }
 };
-#welcome-section{
-    height: 100%;
-}
